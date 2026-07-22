@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am/will be enterting a competition to make a game on the spot in about 4 days or less. As such please wait for an update to this page and the rest of my github projects.
+Also, the competition is on "itch.io" feel free to join and have a look at the games made by me or anyone else.
+
 <!--
 **IulianDo/IulianDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
