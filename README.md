@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am/will be enterting a competition to make a game on the spot in about 4 days or less. As such please wait for an update to this page and the rest of my github projects.
-Also, the competition is on "itch.io" feel free to join and have a look at the games made by me or anyone else.
+I am a motivated Software Engineering graduate with technical foundation in software development, algorithms, object oriented programming and game development. Experienced supporting university students as a Programming Demonstrator, delivering private tutoring across multiple subjects, and completing software development projects using C#, Java, Python and C++. Strong problem-solving, communication and debugging skills with a passion for developing high-quality software solutions and continuing professional development.
+
+If you want to know more please have a look at [my website](https://iuliando.github.io/index.html).
 
 <!--
 **IulianDo/IulianDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
